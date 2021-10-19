@@ -1,0 +1,11 @@
+{
+  "name": "ccxt-gateio-examples",
+  "main": "example.js",
+  "type": "module",
+  "scripts": {
+    "start": "node --experimental-json-modules ."
+  },
+  "dependencies": {
+    "ccxt": "^1.58.57"
+  }
+}
